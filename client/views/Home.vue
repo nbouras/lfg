@@ -1,6 +1,7 @@
 <template>
   <div class="page">
-    <counter></counter>
+    <Counter></Counter>
+    <Navigation></Navigation>
     <p>
       To get started, edit files in <code>./client</code> and save.
     </p>
@@ -9,10 +10,12 @@
 
 <script>
 import Counter from 'components/Counter'
+import Navigation from 'components/Navigation'
 
 export default {
   components: {
-    Counter
+    Counter,
+    Navigation
   }
 }
 </script>
