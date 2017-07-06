@@ -1,4 +1,4 @@
-# new-project
+# lfg
 
 To start:
 
