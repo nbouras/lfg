@@ -1,5 +1,7 @@
 node_modules
 *.log
 .DS_Store
-/dist
-.idea
+backend/dist
+backend/build
+frontend/node_modules
+.idea/*
